@@ -12,5 +12,8 @@ chmod +x /usr/local/bin/docker-compose
 # install adapter nfs
 sudo apt-get install nfs-common nfs-kernel-server
 
+# Template lxd
+sudo apt-get install lxc lxc-templates
+
 # test
 docker run hello-world
