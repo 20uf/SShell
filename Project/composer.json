@@ -1,0 +1,19 @@
+{
+    "name": "Quality Asssurance",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "20uf",
+            "email": "hello@mco2dev.info",
+            "homepage": "http://mco2dev.info",
+            "role": "Copyright Holder"
+        }
+    ],    
+    "description": "The Symfony Standard Edition distribution",
+    "keywords": ["CMF"],
+    "repositories": [
+    {
+        "type":"git",
+        "url":"https://github.com/l3pp4rd/DoctrineExtensions.git"
+    }
+    ],
